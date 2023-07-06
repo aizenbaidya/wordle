@@ -1,6 +1,6 @@
 # Wordle Clone
 
-A simple Wordle clone made using Java and the StdDraw library. My goal with this project was to help improve my coding skills. Below is an example play-through of the game.
+A simple Wordle clone made using Java and the StdDraw library. Below is an example play-through of the game.
 
 <p align="center">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/106003703/251524105-11ebf870-edbd-43f1-ab0b-1a5861dae3cd.gif" width="270" height="338"/>
@@ -10,7 +10,7 @@ A simple Wordle clone made using Java and the StdDraw library. My goal with this
 
 - [ ] Animate the tiles
 - [ ] Add sound effects
-- [ ] Indicate used letters by displaying a keyboard on-screen.
+- [ ] Indicate used letters by displaying an on-screen keyboard
 - [ ] A dialog box indicating win/loss
 
 ## How to run the project
